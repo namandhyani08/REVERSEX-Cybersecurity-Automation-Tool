@@ -4,7 +4,7 @@
 
 An interactive, color-coded Bash script designed for **Kali Linux** to help security students and practitioners manage network listeners, generate multi-language reverse shell payloads, and automate Metasploit Framework (`msfvenom` & `msfconsole`) configurations in controlled lab environments.
 
----
+----------------------------
 
 ## ✨ Features
 
@@ -28,7 +28,7 @@ Ensure the following tools are installed on your Kali Linux environment:
 - `netcat` (`nc`)
 - `msfvenom` & `msfconsole` (Metasploit Framework)
 
----
+---------------------------
 
 ## ⚙️ Usage
 
@@ -36,5 +36,6 @@ Ensure the following tools are installed on your Kali Linux environment:
 2. Grant execution permissions to the script:
    ```bash
    chmod +x rev_shell.sh
-3. Run the script: 
-   ./rev_shell.sh
+3. Run the script:
+  ```bash
+  ./rev_shell.sh
