@@ -36,5 +36,5 @@ Ensure the following tools are installed on your Kali Linux environment:
 2. Grant execution permissions to the script:
    ```bash
    chmod +x rev_shell.sh
-3. Run the script:
+3. Run the script: 
    ./rev_shell.sh
