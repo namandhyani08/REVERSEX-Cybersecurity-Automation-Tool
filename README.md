@@ -35,4 +35,6 @@ Ensure the following tools are installed on your Kali Linux environment:
 1. Clone or download the script to your Kali Linux machine.
 2. Grant execution permissions to the script:
    ```bash
-   chmod +x shell_lab.sh
+   chmod +x rev_shell.sh
+3. Run the script:
+   ./rev_shell.sh
